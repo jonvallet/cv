@@ -17,7 +17,7 @@
 **LinkedIn**: https://uk.linkedin.com/in/jonvallet  
 **GitHub**:  https://github.com/jonvallet  
 **Address**: 32 Notridge Road, Norwich, NR5 9BE  
-**Phone**: +44 07759160932  
+**Phone**: +44 7759160932  
 
 ### Academic Studies
 
