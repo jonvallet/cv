@@ -72,12 +72,8 @@ My main task were design and implement a backend service that translates PAN num
 * Quality Assurance.
 
 **Technologies**
-* JEE6 
-* JBoss EAP 6.1
-* Hibernate
-* Web Services(SOAP/XML and REST/JSON)
-* jQuery/Bootstrap.
-* Oralce 11g database.
+* JEE6, JBoss EAP 6.1, Hibernate, Web Services(SOAP/XML and REST/JSON), jQuery/Bootstrap.
+* Oracle 11g database.
 
 My tasks were mostly designing and implementing backend services for the .net client use for capturing the applicant’s data. Also a restful api to give service for a Visa web portal. JBoss configuration scripting for things like mutual authentication, data sources, authentication options, etc. 
 
@@ -95,10 +91,7 @@ My tasks were mostly designing and implementing backend services for the .net cl
 * Quality Assurance.
 
 **Technologies**
-* JEE6
-* Hibernate
-* Web Services
-* GWT
+* JEE6, Hibernate, Web Services, GWT
 * Oracle 11g database
 
 My most important tasks have been implementing the security layer (Certificate management tool for encrypting the data captured, Web Service Security Policies, dongle certificate integration), purge policies of all the personal information and integration with several of the countries interfaces to automate the visa generation and giving assistance to our contractor for installation.
@@ -118,11 +111,7 @@ My most important tasks have been implementing the security layer (Certificate m
 * Site installation support
 
 **Technologies**
-* JEE5
-* Hibernate
-* Web Services
-* ESB
-* GWT
+* JEE5, Hibernate, Web Services, ESB, GWT
 * Oracle 11g database.
 
 Along almost the three years I have worked on this project the most important task I had were the designing of the migration tools, the interfaces for synchronizing the old border control system with our solution, so they could work in parallel with the customer development team. After this, I worked on site (Morocco/Rabat) with the client team for implementation as responsible of the synchronization/migration tools for almost 6 months. For this I had to travel frequently and had to stay at least for two weeks every month on Rabat. 
@@ -145,10 +134,7 @@ After the designing/implementation phase, I travel frequently (at least two week
 * Demonstration and formation of the utilities.
 
 **Technologies**
-* JEE5
-* Hibernate
-* Web Services
-* GWT
+* JEE5, Hibernate, Web Services, GWT
 * Oracle 10g database.
 
 In this project I was responsible of the entire server designing/implementation infrastructure for saving/retrieving the client data. I also had to travel to Lebanon for a week for onsite installation support and training on the UNIFIL Indonesian Military Police quarters.
@@ -166,9 +152,7 @@ In this project I was responsible of the entire server designing/implementation 
 * Site installation support.
 
 **Technologies**
-* JEE5
-* Hibernate
-* Web Services
+* JEE5, Hibernate, Web Services
 * Oracle 10g database
 
 My main role in this project was server side designing and implementation for saving the biometric data capture by the client. Publishing a web service interface so third party applications integration. A report tool generator.
@@ -187,9 +171,7 @@ I also had to travel to Yaoundé, Cameroon, for installation, support and traini
 * Documentation
 
 **Technologies**
-* Java 5
-* Swing 
-* Servlets 
+* Java 5, Swing, Servlets 
 * Oracle 9g
 
 For six months, I work as the main developer on a desktop application for analyzing data from Télefonica servers and finding correlations between different events, like number of request against time, traffic and number of users, etc…
@@ -207,12 +189,7 @@ For six months, I work as the main developer on a desktop application for analyz
 * Layout.
 
 **Technologies**
-* Websphere/BankSphere 3.2 
-* UML (Rational Rose).
-* Cobol.
-* DB2.
-* J2ee
-* JavaScript
+* Websphere/BankSphere 3.2, UML (Rational Rose), Cobol, DB2, J2ee, JavaScript
 
 This was my first job as a software developer. My main functions were learning to use the internal development tools (Mira and Vega eclipse plugins) and language location for English web applications.
 
@@ -228,10 +205,7 @@ This was my first job as a software developer. My main functions were learning t
 * Windows domain administrator (Active Directory).
 
 **Technologies**
-* Windows
-* Apache
-* Mysql
-* PHP
+* Windows, Apache, Mysql, PHP
 * Active Directory
 
 I work as IT support of several small clients that I visit once a week. I also had to do some web forms form my employer.
