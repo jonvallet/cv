@@ -1,12 +1,12 @@
 ### Index
-**[Personal Information](#personal-information)**
-**[Academic Studies](#academic-studies)**
-**[Experience](#experience)**
-**[Languages](#languages)**
-**[Technical knowoladge and skills](#technical-knowoladge-and-skills)**
-**[Methodologies](#methodologies)**
-**[Databases](#databases)**
-**[Programming Languages](#programming-languages)**
+**[Personal Information](#personal-information)**  
+**[Academic Studies](#academic-studies)**  
+**[Experience](#experience)**  
+**[Languages](#languages)**  
+**[Technical knowoladge and skills](#technical-knowoladge-and-skills)**  
+**[Methodologies](#methodologies)**  
+**[Databases](#databases)**  
+**[Programming Languages](#programming-languages)**  
 
 ### Personal Information
 
