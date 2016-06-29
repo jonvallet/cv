@@ -1,4 +1,4 @@
-# PERSONAL INFORMATION
+## PERSONAL INFORMATION
 
 **Name**: Jon Vallet
 **Nationality**: Spanish
@@ -9,7 +9,7 @@
 **Address**: 32 Notridge Road, Norwich, NR5 9BE
 **Phone**: +44 07759160932    
 
-# ACADEMIC STUDIES
+## ACADEMIC STUDIES
 
 BUP and COU Gustavo Adolfo Béquer institute.
 Computer systems administration 2004-2006 (FP2) Virgen de la Paz Institute.
@@ -17,16 +17,17 @@ First and second year of Computer management engineer 2000-2004, UNED.
 Sun Certified Java Programmer 5.
 
 
-# EXPERIENCE
+## EXPERIENCE
 
 **Company**:  Validus IVC
 **Role**: Senior Software Developer
 **Period**: August 2015 – Current
 **Comments**: Exposing a Rest/Json API to all the services that the company has.
 
-### Tasks
+#### Tasks
 * Development and implementation.
-### Technologies
+
+#### Technologies
 * Spring Boot, REST/JSON, AngularJS, Amazon AWS, Microservices, ElasticSearch.
 * SQL Server 2014
 
@@ -37,9 +38,11 @@ Design and implementation of a Rest API to unify all the modules that are actual
 **Role**: Senior Software Developer
 **Period**: November 2014 – June 2015.
 **Comments**: Token Manager System for transforming Primary Account Numbers to Virtual Primary Account Numbers so the real one is never stored or used by the vendor.
-### Tasks
+
+#### Tasks
 * Development and implementation.
-### Technologies
+
+#### Technologies
 * Spring Boot, JDK8, Microservices architecture, REST/JSON,  Docker, Angular/JS, Amazon AWS
 * MySql 5.5.
 
@@ -51,12 +54,14 @@ My main task were design and implement a backend service that translates PAN num
 **Role**: Technical Lead
 **Period**: May 2013 – September 2014.
 **Comments**: Visa and Border Control System for the Ghana Government
-### Tasks
+
+#### Tasks
 * Functional Analysis.
 * Development and implementation.
 * Documentation.
 * Quality Assurance.
-# Technologies
+
+#### Technologies
 * JEE6 
 * JBoss EAP 6.1
 * Hibernate
@@ -72,12 +77,14 @@ My tasks were mostly designing and implementing backend services for the .net cl
 **Role**: Technical Lead
 **Period**: June 2012 – May 2013.
 **Comments**: Visa capture system, with biometric data capture for requesting visas of several countries (Spain, Sweden, Denmark, Australia, Belgium).
-### Tasks
+
+#### Tasks
 * Functional Analysis.
 * Development and implementation.
 * Documentation.
 * Quality Assurance.
-### Technologies
+
+#### Technologies
 * JEE6
 * Hibernate
 * Web Services
@@ -92,13 +99,15 @@ My most important tasks have been implementing the security layer (Certificate m
 **Role**: Technical Lead
 **Period**: October 2009 – May 2012.
 **Comments**: Border control system, with biometric data capture, passport and fingerprint verification. System integration with the still in use system.
-### Tasks
+
+#### Tasks
 * Functional Analysis.
 * Development and implementation.
 * Documentation
 * Quality Assurance
 * Site installation support
-### Technologies
+
+#### Technologies
 * JEE5
 * Hibernate
 * Web Services
@@ -116,14 +125,16 @@ After the designing/implementation phase, I travel frequently (at least two week
 **Role**: Technical Lead
 **Period**: December 2008 – June March 2009
 **Comments**: Client-Server application with biometrics data capture and fingerprint verification utilities for the military police.
-### Tasks
+
+#### Tasks
 * Functional Analysis.
 * Development and implementation.
 * Documentation.
 * Quality Assurance.
 * Site installation support.
 * Demonstration and formation of the utilities.
-### Technologies
+
+#### Technologies
 * JEE5
 * Hibernate
 * Web Services
@@ -137,11 +148,13 @@ In this project I was responsible of the entire server designing/implementation 
 **Role**: Software Developer
 **Period**:  February 2007 – November 2008
 **Comments**: Client-Server application with biometrics data capture. Student ID cards impression with the captured biometric data. Utilities for biometrics verification.
-### Tasks
+
+#### Tasks
 * Development and implementation.
 * Documentation.
 * Site installation support.
-### Technologies
+
+#### Technologies
 * JEE5
 * Hibernate
 * Web Services
@@ -157,10 +170,12 @@ I also had to travel to Yaoundé, Cameroon, for installation, support and traini
 **Role**: Software Developer.
 **Periodo**: September 2006 – March 2007
 **Comments**: Client application to analyze audited events (number of unique visitors, page load time, etc...) and finding correlations between two or more variables.
-### Tasks
+
+#### Tasks
 * Development and implementation
 * Documentation
-### Technologies
+
+#### Technologies
 * Java 5
 * Swing 
 * Servlets 
@@ -174,11 +189,13 @@ For six months, I work as the main developer on a desktop application for analyz
 **Role**: Software Developer.
 **Period**: May 2006 – September 2006
 **Comments**: Work as contractor using the internal tools for development (BankSphere, Mira, Vega)
+
 #### Tasks
 * Cobol to J2EE migration of the view layer.
 * Localize the programs from Spanish to English.
 * Layout.
-### Technologies
+
+#### Technologies
 * Websphere/BankSphere 3.2 
 * UML (Rational Rose).
 * Cobol.
@@ -194,10 +211,12 @@ This was my first job as a software developer. My main functions were learning t
 **Role**: Developer/IT administrator.
 **Period**: November 2005 – May 2006
 **Comments**: It administrator for several small companies, as a contractor.
-### Tasks
+
+#### Tasks
 * WAMP application development (Windows over Apache, MySql, perl and PHP).
 * Windows domain administrator (Active Directory).
-### Technologies
+
+#### Technologies
 * Windows
 * Apache
 * Mysql
@@ -208,11 +227,11 @@ I work as IT support of several small clients that I visit once a week. I also h
 
 
 
-# LANGUAGES
+## LANGUAGES
 Spanish:  Native.
 English: High.
 
-# TECHNICAL KNOWLEDGE AND SKILLS
+## TECHNICAL KNOWLEDGE AND SKILLS
 * Development utilities and platforms
 * Java 8, jEE7 (EJB3), Hibernate (JPA 2). 
 * Spring Boot, Spring MVC, Spring Security
@@ -225,17 +244,17 @@ English: High.
 * Source code repositories: Git, Mercurial, CVS, Starteam, Subversion.
 * Docker and Vagrant for building/development/testing environments.
 
-# Methodologies
+## Methodologies
 * BDD (Behaviour Driven Development with Cucumber and JBehave).
 * TDD (Test Driven Development with JUnit and ScalaTest).
 * Scrum
 
-# Databases
+## Databases
 * Oracle
 * MySql
 * PostgreSQL
 
-# Programming Languages
+## Programming Languages
 * Java
 * Scala
 * Ruby
