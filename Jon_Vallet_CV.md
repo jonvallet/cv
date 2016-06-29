@@ -1,13 +1,13 @@
 ## PERSONAL INFORMATION
 
-**Name**: Jon Vallet
-**Nationality**: Spanish
-**Birth date**: September 8, 1978 - Madrid
-**Mail**:  j.vallet@gmail.com 
-**LinkedIn**: https://uk.linkedin.com/in/jonvallet
-**GitHub**:  https://github.com/jonvallet
-**Address**: 32 Notridge Road, Norwich, NR5 9BE
-**Phone**: +44 07759160932    
+- **Name**: Jon Vallet
+- **Nationality**: Spanish
+- **Birth date**: September 8, 1978 - Madrid
+- **Mail**:  j.vallet@gmail.com 
+- **LinkedIn**: https://uk.linkedin.com/in/jonvallet
+- **GitHub**:  https://github.com/jonvallet
+- **Address**: 32 Notridge Road, Norwich, NR5 9BE
+- **Phone**: +44 07759160932    
 
 ## ACADEMIC STUDIES
 
