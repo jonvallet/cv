@@ -11,10 +11,10 @@
 
 ## ACADEMIC STUDIES
 
-BUP and COU Gustavo Adolfo Béquer institute.
-Computer systems administration 2004-2006 (FP2) Virgen de la Paz Institute.
-First and second year of Computer management engineer 2000-2004, UNED.
-Sun Certified Java Programmer 5.
+- BUP and COU Gustavo Adolfo Béquer institute.
+- Computer systems administration 2004-2006 (FP2) Virgen de la Paz Institute.
+- First and second year of Computer management engineer 2000-2004, UNED.
+- Sun Certified Java Programmer 5.
 
 
 ## EXPERIENCE
