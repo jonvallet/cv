@@ -19,15 +19,14 @@
 
 ## EXPERIENCE
 
-**Company**:  Validus IVC  
+### Validus IVC  
 **Role**: Senior Software Developer  
 **Period**: August 2015 – Current  
 **Comments**: Exposing a Rest/Json API to all the services that the company has.  
 
-#### Tasks
-* Development and implementation.
-
-#### Technologies
+**Tasks**  
+* Development and implementation.  
+**Technologies**  
 * Spring Boot, REST/JSON, AngularJS, Amazon AWS, Microservices, ElasticSearch.
 * SQL Server 2014
 
