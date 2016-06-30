@@ -3,4 +3,4 @@
 #You can install it with:
 
 #npm install -g markdown-pdf
-markdown-pdf README.md
+markdown-pdf -o Jon_Vallet_CV.pdf README.md
