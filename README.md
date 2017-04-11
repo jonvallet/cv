@@ -3,7 +3,7 @@
 **[Academic Studies](#academic-studies)**  
 **[Experience](#experience)**  
 **[Languages](#languages)**  
-**[Technical knowoladge and skills](#technical-knowoladge-and-skills)**  
+**[Technical knowledge and skills](#technical-knowoladge-and-skills)**  
 **[Methodologies](#methodologies)**  
 **[Databases](#databases)**  
 **[Programming Languages](#programming-languages)**  
