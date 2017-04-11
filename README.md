@@ -29,9 +29,24 @@
 
 ### Experience
 
+#### Click Travel Ltd
+**Role**: Senior Software Developer  
+**Period**: July 2016 – Current  
+**Comments**: Responsable for all the services that manage the financial system of Click Travel.
+
+**Tasks**  
+* Design, development and implementation of new financial services or adding new functionality to the existing ones. 
+
+**Technologies**  
+* REST/JSON, Scala, Java8, Amazon Lambda, Amazon AWS, Microservices, NodeJs.
+* DynamoDB
+
+As part of the financial team, I am responsable of adding new features and creating new services for all the financial products of Click Travel. Also as part of my responsabilities I give 
+support to the more junior devolopers of the team.
+
 #### Validus IVC  
 **Role**: Senior Software Developer  
-**Period**: August 2015 – Current  
+**Period**: August 2015 – June 2016 
 **Comments**: Exposing a Rest/Json API to all the services that the company has.  
 
 **Tasks**  
@@ -227,6 +242,7 @@ I work as IT support of several small clients that I visit once a week. I also h
 * Web development (Bootstrap, AngularJS, JQuery, GWT, NodeJS).
 * Source code repositories: Git, Mercurial, CVS, Starteam, Subversion.
 * Docker and Vagrant for building/development/testing environments.
+* Amazon Lamdba, CloudFormation, SQS, ec2, Elasticsearch.
 
 ### Methodologies
 * BDD (Behaviour Driven Development with Cucumber and JBehave).
@@ -237,6 +253,7 @@ I work as IT support of several small clients that I visit once a week. I also h
 * Oracle
 * MySql
 * PostgreSQL
+* DynamoDB
 
 ### Programming Languages
 * Java
