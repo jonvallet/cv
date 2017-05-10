@@ -32,17 +32,17 @@
 #### Click Travel Ltd
 **Role**: Senior Software Developer  
 **Period**: July 2016 – Current  
-**Comments**: Responsable for all the services that manage the financial system of Click Travel.
+**Comments**: Responsible for all the services that manage the financial system of Click Travel.
 
 **Tasks**  
 * Design, development and implementation of new financial services or adding new functionality to the existing ones. 
 
 **Technologies**  
-* REST/JSON, Scala, Java8, Amazon Lambda, Amazon AWS, Microservices, NodeJs.
+* REST/JSON, Scala, Java8, Amazon Lambda, Amazon AWS, Micro services, NodeJs.
 * DynamoDB
 
-As part of the financial team, I am responsable of adding new features and creating new services for all the financial products of Click Travel. Also as part of my responsabilities I give 
-support to the more junior devolopers of the team.
+As part of the financial team, I am responsible of adding new features and creating new services for all the financial products of Click Travel. Also as part of my responsibilities I give 
+support to the more junior developers of the team.
 
 #### Validus IVC  
 **Role**: Senior Software Developer  
@@ -53,10 +53,10 @@ support to the more junior devolopers of the team.
 * Development and implementation.
 
 **Technologies**  
-* Spring Boot, REST/JSON, AngularJS, Amazon AWS, Microservices, ElasticSearch.
+* Spring Boot, REST/JSON, AngularJS, Amazon AWS, Micro services, ElasticSearch.
 * SQL Server 2014
 
-Design and implementation of a Rest API to unify all the modules that are actually accessing the database directly. Also migrating all the frontend applications to AngularJS and Bootstrap.
+Design and implementation of a Rest API to unify all the modules that are actually accessing the database directly. Also migrating all the front end applications to AngularJS and Bootstrap.
 
 
 #### Proxama  
@@ -68,10 +68,10 @@ Design and implementation of a Rest API to unify all the modules that are actual
 * Development and implementation.
 
 **Technologies**
-* Spring Boot, JDK8, Microservices architecture, REST/JSON,  Docker, Angular/JS, Amazon AWS
+* Spring Boot, JDK8, Micro services architecture, REST/JSON,  Docker, Angular/JS, Amazon AWS
 * MySql 5.5.
 
-My main task were design and implement a backend service that translates PAN numbers in tokens so they can be use for digital payments. Also had to implement a token manager web application to manage all the setting of the token generation using AngularJS as a frontend.
+My main task were design and implement a back end service that translates PAN numbers in tokens so they can be use for digital payments. Also had to implement a token manager web application to manage all the setting of the token generation using AngularJS as a front end.
 
 
 #### Avalon Biometrics (A Gemalto Company)  
@@ -90,7 +90,7 @@ My main task were design and implement a backend service that translates PAN num
 * JEE6, JBoss EAP 6.1, Hibernate, Web Services(SOAP/XML and REST/JSON), jQuery/Bootstrap.
 * Oracle 11g database.
 
-My tasks were mostly designing and implementing backend services for the .net client use for capturing the applicant’s data. Also a restful api to give service for a Visa web portal. JBoss configuration scripting for things like mutual authentication, data sources, authentication options, etc. 
+My tasks were mostly designing and implementing back end services for the .net client use for capturing the applicant’s data. Also a restful api to give service for a Visa web portal. JBoss configuration scripting for things like mutual authentication, data sources, authentication options, etc. 
 
 
 #### Avalon Biometrics S.L.  
@@ -152,7 +152,7 @@ After the designing/implementation phase, I travel frequently (at least two week
 * JEE5, Hibernate, Web Services, GWT
 * Oracle 10g database.
 
-In this project I was responsible of the entire server designing/implementation infrastructure for saving/retrieving the client data. I also had to travel to Lebanon for a week for onsite installation support and training on the UNIFIL Indonesian Military Police quarters.
+In this project I was responsible of the entire server designing/implementation infrastructure for saving/retrieving the client data. I also had to travel to Lebanon for a week for on site installation support and training on the UNIFIL Indonesian Military Police quarters.
 
 
 #### Avalon Biometrics S.L.  
@@ -178,7 +178,7 @@ I also had to travel to Yaoundé, Cameroon, for installation, support and traini
 #### IT Deusto  
 **Client**: Telefónica Móviles (Movistar) Spain  
 **Role**: Software Developer  
-**Periodo**: September 2006 – March 2007  
+**Period**: September 2006 – March 2007  
 **Comments**: Client application to analyze audited events (number of unique visitors, page load time, etc...) and finding correlations between two or more variables.  
 
 **Tasks**
@@ -204,9 +204,9 @@ For six months, I work as the main developer on a desktop application for analyz
 * Layout.
 
 **Technologies**
-* Websphere/BankSphere 3.2, UML (Rational Rose), Cobol, DB2, J2ee, JavaScript
+* Websphere/BankSphere 3.2, UML (Rational Rose), Cobol, DB2, J2EE, JavaScript
 
-This was my first job as a software developer. My main functions were learning to use the internal development tools (Mira and Vega eclipse plugins) and language location for English web applications.
+This was my first job as a software developer. My main functions were learning to use the internal development tools (Mira and Vega eclipse plug-ins) and language location for English web applications.
 
 
 #### Acciona2  
@@ -216,7 +216,7 @@ This was my first job as a software developer. My main functions were learning t
 **Comments**: It administrator for several small companies, as a contractor  
 
 **Tasks**
-* WAMP application development (Windows over Apache, MySql, perl and PHP).
+* WAMP application development (Windows over Apache, MySql, Perl and PHP).
 * Windows domain administrator (Active Directory).
 
 **Technologies**
@@ -230,7 +230,7 @@ I work as IT support of several small clients that I visit once a week. I also h
 * **Spanish**:  Native
 * **English**: High
 
-### Technical knowoladge and skills
+### Technical knowledge and skills
 * Development utilities and platforms
 * Java 8, jEE7 (EJB3), Hibernate (JPA 2). 
 * Spring Boot, Spring MVC, Spring Security
@@ -245,7 +245,7 @@ I work as IT support of several small clients that I visit once a week. I also h
 * Amazon Lamdba, CloudFormation, SQS, ec2, Elasticsearch.
 
 ### Methodologies
-* BDD (Behaviour Driven Development with Cucumber and JBehave).
+* BDD (Behavior Driven Development with Cucumber and JBehave).
 * TDD (Test Driven Development with JUnit and ScalaTest).
 * Scrum
 
