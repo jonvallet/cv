@@ -1,23 +1,23 @@
 ### Index
-**[Personal Information](#personal-information)**
-**[Academic Studies](#academic-studies)**
-**[Experience](#experience)**
-**[Languages](#languages)**
-**[Technical knowledge and skills](#technical-knowoladge-and-skills)**
-**[Methodologies](#methodologies)**
-**[Databases](#databases)**
-**[Programming Languages](#programming-languages)**
+- **[Personal Information](#personal-information)**
+- **[Academic Studies](#academic-studies)**
+- **[Experience](#experience)**
+- **[Languages](#languages)**
+- **[Technical knowledge and skills](#technical-knowoladge-and-skills)**
+- **[Methodologies](#methodologies)**
+- **[Databases](#databases)**
+- **[Programming Languages](#programming-languages)**
 
 ### Personal Information
 
-**Name**: Jon Vallet
-**Nationality**: Spanish
-**Birth date**: September 8, 1978 - Madrid
-**Mail**:  j.vallet@gmail.com
-**LinkedIn**: https://uk.linkedin.com/in/jonvallet
-**GitHub**:  https://github.com/jonvallet
-**Address**: 32 Notridge Road, Norwich, NR5 9BE
-**Phone**: +44 7759160932
+- **Name**: Jon Vallet
+- **Nationality**: Spanish
+- **Birth date**: September 8, 1978 - Madrid
+- **Mail**:  j.vallet@gmail.com
+- **LinkedIn**: https://uk.linkedin.com/in/jonvallet
+- **GitHub**:  https://github.com/jonvallet
+- **Address**: 32 Notridge Road, Norwich, NR5 9BE
+- **Phone**: +44 7759160932
 
 ### Academic Studies
 
@@ -30,9 +30,9 @@
 ### Experience
 
 #### Click Travel Ltd
-**Role**: Team Lead
-**Period**: September 2017 – Current
-**Comments**: Responsible for all the services that manage the hotels systems and integration of Click Travel.
+- **Role**: Team Lead
+- **Period**: September 2017 – Current
+- **Comments**: Responsible for all the services that manage the hotels systems and integration of Click Travel.
 
 **Tasks** 
 * Maintain and add new functionalities to all Hotels releated services. Also responsaible of developing new Hotels API for third parties.
@@ -44,9 +44,9 @@
 As team lead of the Hotels team, we are responsaible of all the current services and adding new features with anything hotel releated (client, search, 3rd party integration, REST API).
 
 #### Click Travel Ltd
-**Role**: Senior Software Developer
-**Period**: July 2016 – August 2017
-**Comments**: Responsible for all the services that manage the financial system of Click Travel.
+- **Role**: Senior Software Developer
+- **Period**: July 2016 – August 2017
+- **Comments**: Responsible for all the services that manage the financial system of Click Travel.
 
 **Tasks**
 * Design, development and implementation of new financial services or adding new functionality to the existing ones. 
@@ -59,9 +59,9 @@ As part of the financial team, I am responsible of adding new features and creat
 support to the more junior developers of the team.
 
 #### Validus IVC  
-**Role**: Senior Software Developer
-**Period**: August 2015 – June 2016 
-**Comments**: Exposing a Rest/Json API to all the services that the company has.
+- **Role**: Senior Software Developer
+- **Period**: August 2015 – June 2016 
+- **Comments**: Exposing a Rest/Json API to all the services that the company has.
 
 **Tasks**
 * Development and implementation.
@@ -74,9 +74,9 @@ Design and implementation of a Rest API to unify all the modules that are actual
 
 
 #### Proxama  
-**Role**: Senior Software Developer
-**Period**: November 2014 – June 2015
-**Comments**: Token Manager System for transforming Primary Account Numbers to Virtual Primary Account Numbers so the real one is never stored or used by the vendor.  
+- **Role**: Senior Software Developer
+- **Period**: November 2014 – June 2015
+- **Comments**: Token Manager System for transforming Primary Account Numbers to Virtual Primary Account Numbers so the real one is never stored or used by the vendor.  
 
 **Tasks**
 * Development and implementation.
@@ -108,10 +108,10 @@ My tasks were mostly designing and implementing back end services for the .net c
 
 
 #### Avalon Biometrics S.L.  
-**Client**: VFS Global
-**Role**: Technical Lead
-**Period**: June 2012 – May 2013
-**Comments**: Visa capture system, with biometric data capture for requesting visas of several countries (Spain, Sweden, Denmark, Australia, Belgium).
+- **Client**: VFS Global
+- **Role**: Technical Lead
+- **Period**: June 2012 – May 2013
+- **Comments**: Visa capture system, with biometric data capture for requesting visas of several countries (Spain, Sweden, Denmark, Australia, Belgium).
 
 **Tasks**
 * Functional Analysis.
@@ -127,10 +127,10 @@ My most important tasks have been implementing the security layer (Certificate m
 
 
 #### Avalon Biometrics S.L.  
-**Client**: DGSN (Moroccan Police Department)
-**Role**: Technical Lead
-**Period**: October 2009 – May 2012
-**Comments**: Border control system, with biometric data capture, passport and fingerprint verification. System integration with the still in use system.  
+- **Client**: DGSN (Moroccan Police Department)
+- **Role**: Technical Lead
+- **Period**: October 2009 – May 2012
+- **Comments**: Border control system, with biometric data capture, passport and fingerprint verification. System integration with the still in use system.  
 
 **Tasks**
 * Functional Analysis.
@@ -149,10 +149,10 @@ After the designing/implementation phase, I travel frequently (at least two week
 
 
 #### Avalon Biometrics S.L.  
-**Client**: UNIFIL (Indonesian army on Lebanon)
-**Role**: Technical Lead
-**Period**: December 2008 – June March 2009
-**Comments**: Client-Server application with biometrics data capture and fingerprint verification utilities for the military police.  
+- **Client**: UNIFIL (Indonesian army on Lebanon)
+- **Role**: Technical Lead
+- **Period**: December 2008 – June March 2009
+- **Comments**: Client-Server application with biometrics data capture and fingerprint verification utilities for the military police.  
 
 **Tasks**
 * Functional Analysis.
@@ -170,10 +170,10 @@ In this project I was responsible of the entire server designing/implementation 
 
 
 #### Avalon Biometrics S.L.  
-**Client**: Intelligentsia (Yaoundé University, Cameroon)
-**Role**: Software Developer
-**Period**:  February 2007 – November 2008
-**Comments**: Client-Server application with biometrics data capture. Student ID cards impression with the captured biometric data. Utilities for biometrics verification.
+- **Client**: Intelligentsia (Yaoundé University, Cameroon)
+- **Role**: Software Developer
+- **Period**:  February 2007 – November 2008
+- **Comments**: Client-Server application with biometrics data capture. Student ID cards impression with the captured biometric data. Utilities for biometrics verification.
 
 **Tasks**
 * Development and implementation.
@@ -190,10 +190,10 @@ I also had to travel to Yaoundé, Cameroon, for installation, support and traini
 
 
 #### IT Deusto  
-**Client**: Telefónica Móviles (Movistar) Spain
-**Role**: Software Developer
-**Period**: September 2006 – March 2007
-**Comments**: Client application to analyze audited events (number of unique visitors, page load time, etc...) and finding correlations between two or more variables.
+- **Client**: Telefónica Móviles (Movistar) Spain
+- **Role**: Software Developer
+- **Period**: September 2006 – March 2007
+- **Comments**: Client application to analyze audited events (number of unique visitors, page load time, etc...) and finding correlations between two or more variables.
 
 **Tasks**
 * Development and implementation
@@ -207,10 +207,10 @@ For six months, I work as the main developer on a desktop application for analyz
 
 
 #### IT Deusto  
-**Client**: ISBAN/Grupo Santander
-**Role**: Software Developer
-**Period**: May 2006 – September 2006
-**Comments**: Work as contractor using the internal tools for development (BankSphere, Mira, Vega)
+- **Client**: ISBAN/Grupo Santander
+- **Role**: Software Developer
+- **Period**: May 2006 – September 2006
+- **Comments**: Work as contractor using the internal tools for development (BankSphere, Mira, Vega)
 
 **Tasks**
 * Cobol to J2EE migration of the view layer.
@@ -224,10 +224,10 @@ This was my first job as a software developer. My main functions were learning t
 
 
 #### Acciona2  
-**Client**: Several
-**Role**: Developer/IT administrator
-**Period**: November 2005 – May 2006
-**Comments**: It administrator for several small companies, as a contractor
+- **Client**: Several
+- **Role**: Developer/IT administrator
+- **Period**: November 2005 – May 2006
+- **Comments**: It administrator for several small companies, as a contractor
 
 **Tasks**
 * WAMP application development (Windows over Apache, MySql, Perl and PHP).
