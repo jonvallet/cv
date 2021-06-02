@@ -29,7 +29,7 @@
 
 ### Experience
 
-#### Click Travel Ltd
+#### Scibite (an Elsevier Company)
 - **Role**: Technical Lead
 - **Period**:  2018 – Current
 - **Comments**: Responsiable for Leading the technical team for CENtree (Ontology Management Platform)
