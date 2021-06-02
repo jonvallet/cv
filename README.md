@@ -30,6 +30,23 @@
 ### Experience
 
 #### Click Travel Ltd
+- **Role**: Technical Lead
+- **Period**:  2018 – Current
+- **Comments**: Responsiable for Leading the technical team for CENtree (Ontology Management Platform)
+
+**Tasks** 
+* Develop our core product CENtree (ONtology Management Platform).
+* Manage a group of four developers.
+* Technical requirement gathering and specification.
+
+**Technologies**
+* Java 11, Kotlin, Spring Boot, AWS, Docker, Angular 2
+* PostgresSQL, ElasticSearch
+
+
+Working as Technical Lead for the Ontology team. Manage 4 developers and I am responsable of product release cycle, general libraries and frameworks that are used for the product. I also cordinate with the different technical leads of other teams to cordinate and collaborate.
+
+#### Click Travel Ltd
 - **Role**: Team Lead
 - **Period**: September 2017 – Current
 - **Comments**: Responsible for all the services that manage the hotels systems and integration of Click Travel.
@@ -245,23 +262,23 @@ I work as IT support of several small clients that I visit once a week. I also h
 * **English**: High
 
 ### Technical knowledge and skills
-* Development utilities and platforms
-* Java 8, jEE7 (EJB3), Hibernate (JPA 2). 
+* Java 11, Hibernate (JPA 2). 
 * Spring Boot, Spring MVC, Spring Security
 * Soap Web Services with Apache CXF and Metro.
 * Rest Web Services with RestEasy, Jersey and Spring.
 * Gradle, Sbt,  Ant/Ivy and Maven build tools.
 * Application servers: Sun Applications Server (Glassfish), JBoss, WebSphere and Tomcat.
-* Development Environments: IntelliJ, Eclipse, NetBeans, WebSphere Studio Application Developer (WSAD).
-* Web development (Bootstrap, AngularJS, JQuery, GWT, NodeJS).
+* Development Environments: IntelliJ, Eclipse, NetBeans.
+* Web development (Bootstrap, AngularJS, NodeJS, Vue).
 * Source code repositories: Git, Mercurial, CVS, Starteam, Subversion.
-* Docker and Vagrant for building/development/testing environments.
+* Docker and Docker compose for building/development/testing environments.
 * Amazon Lamdba, CloudFormation, SQS, ec2, Elasticsearch.
 
 ### Methodologies
 * BDD (Behavior Driven Development with Cucumber and JBehave).
 * TDD (Test Driven Development with JUnit and ScalaTest).
 * Scrum
+* Kanban
 
 ### Databases
 * Oracle
@@ -272,7 +289,7 @@ I work as IT support of several small clients that I visit once a week. I also h
 ### Programming Languages
 * Java
 * Scala
-* Ruby
+* Kotlin
 * Javascript
 
 References available upon request.
