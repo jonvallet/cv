@@ -11,12 +11,12 @@
 ### Personal Information
 
 - **Name**: Jon Vallet
-- **Nationality**: Spanish
+- **Nationality**: British, Spanish
 - **Birth date**: September 8, 1978 - Madrid
 - **Mail**:  j.vallet@gmail.com
 - **LinkedIn**: https://uk.linkedin.com/in/jonvallet
 - **GitHub**:  https://github.com/jonvallet
-- **Address**: 32 Notridge Road, Norwich, NR5 9BE
+- **Address**: 23 Bartram Close, Wymondham, NR18 0FU
 - **Phone**: +44 7759160932
 
 ### Academic Studies
@@ -29,9 +29,29 @@
 
 ### Experience
 
+#### Mettle (NatWest Boxed)
+- **Role**: Senior Software Developer
+- **Period**:  2021 – Current
+- **Comments**: Working on the Fincrime department to monitor customers activity and apply rules for fraud prevention. 
+
+**Tasks** 
+* Card and bank payments authorization in real time (SLA 40ms).
+* Event Monitoring of users/business activity (120k customers at the moment). 
+* Person/Business in life screening against multiple services.
+
+**Technologies**
+* Java 21, Micronaut, Spring Boot, Kubernetes, Kafka Streams, OpenTelemetry, GraalVM, Testcontainers 
+* PostgresSQL, MySql, Kafka 
+
+In Mettle I am part of the Fincrime department as Backend Software Developer. 
+The key services I work on are Event Monitoring System,
+responsible for feeding with all the information the Fincrime analytics.
+Real time payment authorizations, where we have to approve/decline payments in less than 40 ms for card payments.
+In life screening of business and customers against multiple external services.
+
 #### Scibite (an Elsevier Company)
 - **Role**: Technical Lead
-- **Period**:  2018 – Current
+- **Period**:  2018 – 2021
 - **Comments**: Responsiable for Leading the technical team for CENtree (Ontology Management Platform)
 
 **Tasks** 
@@ -44,7 +64,7 @@
 * PostgresSQL, ElasticSearch
 
 
-Working as Technical Lead for the Ontology team. Manage 4 developers and I am responsable of product release cycle, general libraries and frameworks that are used for the product. I also cordinate with the different technical leads of other teams to cordinate and collaborate.
+Working as Technical Lead for the Ontology team. Manage 4 developers and I am responsible of product release cycle, general libraries and frameworks that are used for the product. I also cordinate with the different technical leads of other teams to cordinate and collaborate.
 
 #### Click Travel Ltd
 - **Role**: Team Lead
@@ -52,7 +72,7 @@ Working as Technical Lead for the Ontology team. Manage 4 developers and I am re
 - **Comments**: Responsible for all the services that manage the hotels systems and integration of Click Travel.
 
 **Tasks** 
-* Maintain and add new functionalities to all Hotels releated services. Also responsaible of developing new Hotels API for third parties.
+* Maintain and add new functionalities to all Hotels releated services. Also responsible of developing new Hotels API for third parties.
 
 **Technologies**
 * REST/JSON, Node.js, Java8, Amazon Lambda, Amazon AWS, Micro services.
@@ -262,8 +282,9 @@ I work as IT support of several small clients that I visit once a week. I also h
 * **English**: High
 
 ### Technical knowledge and skills
-* Java 11, Hibernate (JPA 2). 
+* Java 21, Hibernate (JPA 2). 
 * Spring Boot, Spring MVC, Spring Security
+* Micronaut
 * Soap Web Services with Apache CXF and Metro.
 * Rest Web Services with RestEasy, Jersey and Spring.
 * Gradle, Sbt,  Ant/Ivy and Maven build tools.
