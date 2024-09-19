@@ -45,7 +45,7 @@
 
 In Mettle I am part of the Fincrime department as Backend Software Developer. 
 The key services I work on are Event Monitoring System,
-responsible for feeding with all the information the Fincrime analytics.
+responsible for feeding with all the information the for fincrime analytics team.
 Real time payment authorizations, where we have to approve/decline payments in less than 40 ms for card payments.
 In life screening of business and customers against multiple external services.
 
