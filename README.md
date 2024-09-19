@@ -64,7 +64,7 @@ In life screening of business and customers against multiple external services.
 * PostgresSQL, ElasticSearch
 
 
-Working as Technical Lead for the Ontology team. Manage 4 developers and I am responsible of product release cycle, general libraries and frameworks that are used for the product. I also cordinate with the different technical leads of other teams to cordinate and collaborate.
+Working as Technical Lead for the Ontology team. Manage 4 developers and I am responsible of product release cycle, general libraries and frameworks that are used for the product. I also cordinate and collaborate with other technical leads.
 
 #### Click Travel Ltd
 - **Role**: Team Lead
