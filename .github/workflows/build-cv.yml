@@ -1,0 +1,39 @@
+name: Build CV
+
+on:
+  push:
+    branches: [main]
+    paths: [README.md, cv-print.css, build-html.js]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: |
+          npm install -g md-to-pdf marked
+
+      - name: Generate PDF
+        run: md-to-pdf README.md --stylesheet cv-print.css -o Jon_Vallet_CV.pdf
+
+      - name: Generate DOCX
+        run: pandoc -f markdown -t docx README.md -o Jon_Vallet.docx
+
+      - name: Generate HTML
+        run: node build-html.js
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add Jon_Vallet_CV.pdf Jon_Vallet.docx index.html
+          git diff --cached --quiet || git commit -m "build(CV): regenerate CV outputs"
+          git push

@@ -1,6 +1,5 @@
 #!/bin/bash
-#You need to jave NodeJs installed and the markdown-pdf tool
-#You can install it with:
+# Requires Node.js and md-to-pdf
+# npm install -g md-to-pdf
 
-#npm install -g markdown-pdf
-markdown-pdf -o Jon_Vallet_CV.pdf README.md
+md-to-pdf README.md --stylesheet cv-print.css -o Jon_Vallet_CV.pdf
