@@ -2,7 +2,7 @@ name: Build CV
 
 on:
   push:
-    branches: [main]
+    branches: [master]
     paths: [README.md, cv-print.css, build-html.js]
   workflow_dispatch:
 
@@ -30,10 +30,21 @@ jobs:
       - name: Generate HTML
         run: node build-html.js
 
-      - name: Commit changes
+      - name: Commit index.html
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add Jon_Vallet_CV.pdf Jon_Vallet.docx index.html
-          git diff --cached --quiet || git commit -m "build(CV): regenerate CV outputs"
+          git add index.html
+          git diff --cached --quiet || git commit -m "build(CV): regenerate index.html"
           git push
+
+      - name: Upload release assets
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          gh release create cv-latest \
+            --title "CV $(date +%Y-%m-%d)" \
+            --notes "Auto-generated from README.md" \
+            --target "${{ github.sha }}" \
+            2>/dev/null || true
+          gh release upload cv-latest Jon_Vallet_CV.pdf Jon_Vallet.docx --clobber

@@ -71,8 +71,8 @@ const html = `<!DOCTYPE html>
 <body>
   <div class="download-bar">
     <span class="label">Jon Vallet - CV</span>
-    <a href="Jon_Vallet_CV.pdf">Download PDF</a>
-    <a href="Jon_Vallet.docx">Download DOCX</a>
+    <a href="https://github.com/jonvallet/cv/releases/download/cv-latest/Jon_Vallet_CV.pdf">Download PDF</a>
+    <a href="https://github.com/jonvallet/cv/releases/download/cv-latest/Jon_Vallet.docx">Download DOCX</a>
   </div>
   <div class="cv-content">
 ${bodyHtml}

@@ -1,7 +1,8 @@
 # CV repo
 
 Single `README.md` (markdown) is the source of truth for the CV content.  
-Generated outputs (`Jon_Vallet_CV.pdf`, `Jon_Vallet.docx`, `index.html`) are tracked in git — regenerate after editing `README.md`.
+`index.html` is tracked in git and served via GitHub Pages.  
+`Jon_Vallet_CV.pdf` and `Jon_Vallet.docx` are **not** tracked — the workflow uploads them as release assets.
 
 ## Convert
 
@@ -13,4 +14,5 @@ Generated outputs (`Jon_Vallet_CV.pdf`, `Jon_Vallet.docx`, `index.html`) are tra
 
 ## GitHub Actions
 
-Workflow at `.github/workflows/build-cv.yml` auto-regenerates PDF, DOCX, and HTML on push to `main` touching `README.md`, `cv-print.css`, or `build-html.js`. To serve via GitHub Pages, enable **Settings → Pages → Deploy from branch `main`, root `/`**.
+Workflow at `.github/workflows/build-cv.yml` auto-regenerates PDF, DOCX, and HTML on push to `master` touching `README.md`, `cv-print.css`, or `build-html.js`. It commits `index.html` and uploads `Jon_Vallet_CV.pdf` / `Jon_Vallet.docx` as assets to the `cv-latest` release.  
+To serve via GitHub Pages, enable **Settings → Pages → Deploy from branch `master`, root `/`**.
