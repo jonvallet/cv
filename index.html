@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jon Vallet - CV</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      background: #eef0f2;
+    }
+    .download-bar {
+      position: sticky; top: 0; z-index: 10;
+      background: #1e293b; color: #fff;
+      padding: 12px 24px;
+      display: flex; gap: 10px; align-items: center; justify-content: center;
+      flex-wrap: wrap;
+    }
+    .download-bar .label {
+      font-weight: 600; font-size: 15px;
+      margin-right: auto;
+    }
+    .download-bar a {
+      color: #fff; text-decoration: none;
+      padding: 8px 20px;
+      border: 1px solid rgba(255,255,255,0.3);
+      border-radius: 6px;
+      font-size: 14px;
+      transition: background 0.15s;
+    }
+    .download-bar a:hover { background: rgba(255,255,255,0.12); }
+    .cv-content {
+      max-width: 820px; margin: 0 auto; padding: 40px 32px;
+      background: #fff;
+      min-height: 100vh;
+    }
+    h3 {
+      font-size: 20px; color: #1e293b;
+      border-bottom: 2px solid #1e293b;
+      padding-bottom: 6px;
+      margin: 36px 0 16px;
+    }
+    h3:first-of-type { margin-top: 0; }
+    h4 { font-size: 17px; margin: 24px 0 4px; color: #334155; }
+    p { margin: 8px 0; }
+    ul, ol { margin: 6px 0 6px 22px; }
+    li { margin: 3px 0; }
+    strong { color: #1e293b; }
+    a { color: #2563eb; }
+    hr { border: none; border-top: 1px solid #e2e8f0; margin: 16px 0; }
+    @media (max-width: 640px) {
+      .download-bar { flex-direction: column; padding: 10px; }
+      .download-bar .label { margin-right: 0; }
+      .download-bar a { width: 100%; text-align: center; }
+      .cv-content { padding: 24px 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="download-bar">
+    <span class="label">Jon Vallet - CV</span>
+    <a href="https://github.com/jonvallet/cv/releases/download/cv-latest/Jon_Vallet_CV.pdf">Download PDF</a>
+    <a href="https://github.com/jonvallet/cv/releases/download/cv-latest/Jon_Vallet.docx">Download DOCX</a>
+  </div>
+  <div class="cv-content">
+<h3>Index</h3>
+<ul>
+<li><strong><a href="#personal-information">Personal Information</a></strong></li>
+<li><strong><a href="#academic-studies">Academic Studies</a></strong></li>
+<li><strong><a href="#experience">Experience</a></strong></li>
+<li><strong><a href="#languages">Languages</a></strong></li>
+<li><strong><a href="#technical-knowoladge-and-skills">Technical knowledge and skills</a></strong></li>
+<li><strong><a href="#methodologies">Methodologies</a></strong></li>
+<li><strong><a href="#databases">Databases</a></strong></li>
+<li><strong><a href="#programming-languages">Programming Languages</a></strong></li>
+</ul>
+<h3>Personal Information</h3>
+<ul>
+<li><strong>Name</strong>: Jon Vallet</li>
+<li><strong>Nationality</strong>: British, Spanish</li>
+<li><strong>Birth date</strong>: September 8, 1978 - Madrid</li>
+<li><strong>Mail</strong>:  <a href="mailto:j.vallet@gmail.com">j.vallet@gmail.com</a></li>
+<li><strong>LinkedIn</strong>: <a href="https://uk.linkedin.com/in/jonvallet">https://uk.linkedin.com/in/jonvallet</a></li>
+<li><strong>GitHub</strong>:  <a href="https://github.com/jonvallet">https://github.com/jonvallet</a></li>
+<li><strong>Address</strong>: 23 Bartram Close, Wymondham, NR18 0FU</li>
+<li><strong>Phone</strong>: +44 7759160932</li>
+</ul>
+<h3>Academic Studies</h3>
+<ul>
+<li>BUP and COU Gustavo Adolfo Béquer institute.</li>
+<li>Computer systems administration 2004-2006 (FP2) Virgen de la Paz Institute.</li>
+<li>First and second year of Computer management engineer 2000-2004, UNED.</li>
+<li>Sun Certified Java Programmer 5.</li>
+</ul>
+<h3>Experience</h3>
+<h4>Mettle (NatWest Boxed)</h4>
+<ul>
+<li><strong>Role</strong>: Senior Software Developer</li>
+<li><strong>Period</strong>:  2021 – Current</li>
+<li><strong>Comments</strong>: Working on the Fincrime department to monitor customers activity and apply rules for fraud prevention.</li>
+</ul>
+<p><strong>Tasks</strong> </p>
+<ul>
+<li>Card and bank payments authorization in real time (SLA 40ms).</li>
+<li>Event Monitoring of users/business activity (120k customers at the moment). </li>
+<li>Person/Business in life screening against multiple services.</li>
+</ul>
+<p><strong>Technologies</strong></p>
+<ul>
+<li>Java 21, Micronaut, Spring Boot, Kubernetes, Kafka Streams, OpenTelemetry, GraalVM, Testcontainers </li>
+<li>PostgresSQL, MySql, Kafka</li>
+</ul>
+<p>In Mettle I am part of the Fincrime department as Backend Software Developer. 
+The key services I work on are Event Monitoring System,
+responsible for feeding with all the information the for fincrime analytics team.
+Real time payment authorizations, where we have to approve/decline payments in less than 40 ms for card payments.
+In life screening of business and customers against multiple external services.</p>
+<h4>Scibite (an Elsevier Company)</h4>
+<ul>
+<li><strong>Role</strong>: Technical Lead</li>
+<li><strong>Period</strong>:  2018 – 2021</li>
+<li><strong>Comments</strong>: Responsiable for Leading the technical team for CENtree (Ontology Management Platform)</li>
+</ul>
+<p><strong>Tasks</strong> </p>
+<ul>
+<li>Develop our core product CENtree (ONtology Management Platform).</li>
+<li>Manage a group of four developers.</li>
+<li>Technical requirement gathering and specification.</li>
+</ul>
+<p><strong>Technologies</strong></p>
+<ul>
+<li>Java 11, Kotlin, Spring Boot, AWS, Docker, Angular 2</li>
+<li>PostgresSQL, ElasticSearch</li>
+</ul>
+<p>Working as Technical Lead for the Ontology team. Manage 4 developers and I am responsible of product release cycle, general libraries and frameworks that are used for the product. I also cordinate and collaborate with other technical leads.</p>
+<h4>Click Travel Ltd</h4>
+<ul>
+<li><strong>Role</strong>: Team Lead</li>
+<li><strong>Period</strong>: September 2017 – Current</li>
+<li><strong>Comments</strong>: Responsible for all the services that manage the hotels systems and integration of Click Travel.</li>
+</ul>
+<p><strong>Tasks</strong> </p>
+<ul>
+<li>Maintain and add new functionalities to all Hotels releated services. Also responsible of developing new Hotels API for third parties.</li>
+</ul>
+<p><strong>Technologies</strong></p>
+<ul>
+<li>REST/JSON, Node.js, Java8, Amazon Lambda, Amazon AWS, Micro services.</li>
+<li>DynamoDB</li>
+</ul>
+<p>As team lead of the Hotels team, we are responsaible of all the current services and adding new features with anything hotel releated (client, search, 3rd party integration, REST API).</p>
+<h4>Click Travel Ltd</h4>
+<ul>
+<li><strong>Role</strong>: Senior Software Developer</li>
+<li><strong>Period</strong>: July 2016 – August 2017</li>
+<li><strong>Comments</strong>: Responsible for all the services that manage the financial system of Click Travel.</li>
+</ul>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>Design, development and implementation of new financial services or adding new functionality to the existing ones.</li>
+</ul>
+<p><strong>Technologies</strong></p>
+<ul>
+<li>REST/JSON, Scala, Java8, Amazon Lambda, Amazon AWS, Micro services, NodeJs.</li>
+<li>DynamoDB</li>
+</ul>
+<p>As part of the financial team, I am responsible of adding new features and creating new services for all the financial products of Click Travel. Also as part of my responsibilities I give 
+support to the more junior developers of the team.</p>
+<h4>Validus IVC</h4>
+<ul>
+<li><strong>Role</strong>: Senior Software Developer</li>
+<li><strong>Period</strong>: August 2015 – June 2016 </li>
+<li><strong>Comments</strong>: Exposing a Rest/Json API to all the services that the company has.</li>
+</ul>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>Development and implementation.</li>
+</ul>
+<p><strong>Technologies</strong></p>
+<ul>
+<li>Spring Boot, REST/JSON, AngularJS, Amazon AWS, Micro services, ElasticSearch.</li>
+<li>SQL Server 2014</li>
+</ul>
+<p>Design and implementation of a Rest API to unify all the modules that are actually accessing the database directly. Also migrating all the front end applications to AngularJS and Bootstrap.</p>
+<h4>Proxama</h4>
+<ul>
+<li><strong>Role</strong>: Senior Software Developer</li>
+<li><strong>Period</strong>: November 2014 – June 2015</li>
+<li><strong>Comments</strong>: Token Manager System for transforming Primary Account Numbers to Virtual Primary Account Numbers so the real one is never stored or used by the vendor.</li>
+</ul>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>Development and implementation.</li>
+</ul>
+<p><strong>Technologies</strong></p>
+<ul>
+<li>Spring Boot, JDK8, Micro services architecture, REST/JSON,  Docker, Angular/JS, Amazon AWS</li>
+<li>MySql 5.5.</li>
+</ul>
+<p>My main task were design and implement a back end service that translates PAN numbers in tokens so they can be use for digital payments. Also had to implement a token manager web application to manage all the setting of the token generation using AngularJS as a front end.</p>
+<h4>Avalon Biometrics (A Gemalto Company)</h4>
+<p><strong>Client</strong>: Ghana Government
+<strong>Role</strong>: Technical Lead
+<strong>Period</strong>: May 2013 – September 2014
+<strong>Comments</strong>: Visa and Border Control System for the Ghana Government</p>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>Functional Analysis.</li>
+<li>Development and implementation.</li>
+<li>Documentation.</li>
+<li>Quality Assurance.</li>
+</ul>
+<p><strong>Technologies</strong></p>
+<ul>
+<li>JEE6, JBoss EAP 6.1, Hibernate, Web Services(SOAP/XML and REST/JSON), jQuery/Bootstrap.</li>
+<li>Oracle 11g database.</li>
+</ul>
+<p>My tasks were mostly designing and implementing back end services for the .net client use for capturing the applicant’s data. Also a restful api to give service for a Visa web portal. JBoss configuration scripting for things like mutual authentication, data sources, authentication options, etc. </p>
+<h4>Avalon Biometrics S.L.</h4>
+<ul>
+<li><strong>Client</strong>: VFS Global</li>
+<li><strong>Role</strong>: Technical Lead</li>
+<li><strong>Period</strong>: June 2012 – May 2013</li>
+<li><strong>Comments</strong>: Visa capture system, with biometric data capture for requesting visas of several countries (Spain, Sweden, Denmark, Australia, Belgium).</li>
+</ul>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>Functional Analysis.</li>
+<li>Development and implementation.</li>
+<li>Documentation.</li>
+<li>Quality Assurance.</li>
+</ul>
+<p><strong>Technologies</strong></p>
+<ul>
+<li>JEE6, Hibernate, Web Services, GWT</li>
+<li>Oracle 11g database</li>
+</ul>
+<p>My most important tasks have been implementing the security layer (Certificate management tool for encrypting the data captured, Web Service Security Policies, dongle certificate integration), purge policies of all the personal information and integration with several of the countries interfaces to automate the visa generation and giving assistance to our contractor for installation.</p>
+<h4>Avalon Biometrics S.L.</h4>
+<ul>
+<li><strong>Client</strong>: DGSN (Moroccan Police Department)</li>
+<li><strong>Role</strong>: Technical Lead</li>
+<li><strong>Period</strong>: October 2009 – May 2012</li>
+<li><strong>Comments</strong>: Border control system, with biometric data capture, passport and fingerprint verification. System integration with the still in use system.</li>
+</ul>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>Functional Analysis.</li>
+<li>Development and implementation.</li>
+<li>Documentation</li>
+<li>Quality Assurance</li>
+<li>Site installation support</li>
+</ul>
+<p><strong>Technologies</strong></p>
+<ul>
+<li>JEE5, Hibernate, Web Services, ESB, GWT</li>
+<li>Oracle 11g database.</li>
+</ul>
+<p>Along almost the three years I have worked on this project the most important task I had were the designing of the migration tools, the interfaces for synchronizing the old border control system with our solution, so they could work in parallel with the customer development team. After this, I worked on site (Morocco/Rabat) with the client team for implementation as responsible of the synchronization/migration tools for almost 6 months. For this I had to travel frequently and had to stay at least for two weeks every month on Rabat. </p>
+<p>After the designing/implementation phase, I travel frequently (at least two weeks a month), for installation support, discussing change requests, issue tracking on site and bridge between the client and development team for any issue, meeting or requirement that needed the Avalon Biometrics assistance.</p>
+<h4>Avalon Biometrics S.L.</h4>
+<ul>
+<li><strong>Client</strong>: UNIFIL (Indonesian army on Lebanon)</li>
+<li><strong>Role</strong>: Technical Lead</li>
+<li><strong>Period</strong>: December 2008 – June March 2009</li>
+<li><strong>Comments</strong>: Client-Server application with biometrics data capture and fingerprint verification utilities for the military police.</li>
+</ul>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>Functional Analysis.</li>
+<li>Development and implementation.</li>
+<li>Documentation.</li>
+<li>Quality Assurance.</li>
+<li>Site installation support.</li>
+<li>Demonstration and formation of the utilities.</li>
+</ul>
+<p><strong>Technologies</strong></p>
+<ul>
+<li>JEE5, Hibernate, Web Services, GWT</li>
+<li>Oracle 10g database.</li>
+</ul>
+<p>In this project I was responsible of the entire server designing/implementation infrastructure for saving/retrieving the client data. I also had to travel to Lebanon for a week for on site installation support and training on the UNIFIL Indonesian Military Police quarters.</p>
+<h4>Avalon Biometrics S.L.</h4>
+<ul>
+<li><strong>Client</strong>: Intelligentsia (Yaoundé University, Cameroon)</li>
+<li><strong>Role</strong>: Software Developer</li>
+<li><strong>Period</strong>:  February 2007 – November 2008</li>
+<li><strong>Comments</strong>: Client-Server application with biometrics data capture. Student ID cards impression with the captured biometric data. Utilities for biometrics verification.</li>
+</ul>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>Development and implementation.</li>
+<li>Documentation.</li>
+<li>Site installation support.</li>
+</ul>
+<p><strong>Technologies</strong></p>
+<ul>
+<li>JEE5, Hibernate, Web Services</li>
+<li>Oracle 10g database</li>
+</ul>
+<p>My main role in this project was server side designing and implementation for saving the biometric data capture by the client. Publishing a web service interface so third party applications integration. A report tool generator.</p>
+<p>I also had to travel to Yaoundé, Cameroon, for installation, support and training.</p>
+<h4>IT Deusto</h4>
+<ul>
+<li><strong>Client</strong>: Telefónica Móviles (Movistar) Spain</li>
+<li><strong>Role</strong>: Software Developer</li>
+<li><strong>Period</strong>: September 2006 – March 2007</li>
+<li><strong>Comments</strong>: Client application to analyze audited events (number of unique visitors, page load time, etc...) and finding correlations between two or more variables.</li>
+</ul>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>Development and implementation</li>
+<li>Documentation</li>
+</ul>
+<p><strong>Technologies</strong></p>
+<ul>
+<li>Java 5, Swing, Servlets </li>
+<li>Oracle 9g</li>
+</ul>
+<p>For six months, I work as the main developer on a desktop application for analyzing data from Télefonica servers and finding correlations between different events, like number of request against time, traffic and number of users, etc…</p>
+<h4>IT Deusto</h4>
+<ul>
+<li><strong>Client</strong>: ISBAN/Grupo Santander</li>
+<li><strong>Role</strong>: Software Developer</li>
+<li><strong>Period</strong>: May 2006 – September 2006</li>
+<li><strong>Comments</strong>: Work as contractor using the internal tools for development (BankSphere, Mira, Vega)</li>
+</ul>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>Cobol to J2EE migration of the view layer.</li>
+<li>Localize the programs from Spanish to English.</li>
+<li>Layout.</li>
+</ul>
+<p><strong>Technologies</strong></p>
+<ul>
+<li>Websphere/BankSphere 3.2, UML (Rational Rose), Cobol, DB2, J2EE, JavaScript</li>
+</ul>
+<p>This was my first job as a software developer. My main functions were learning to use the internal development tools (Mira and Vega eclipse plug-ins) and language location for English web applications.</p>
+<h4>Acciona2</h4>
+<ul>
+<li><strong>Client</strong>: Several</li>
+<li><strong>Role</strong>: Developer/IT administrator</li>
+<li><strong>Period</strong>: November 2005 – May 2006</li>
+<li><strong>Comments</strong>: It administrator for several small companies, as a contractor</li>
+</ul>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>WAMP application development (Windows over Apache, MySql, Perl and PHP).</li>
+<li>Windows domain administrator (Active Directory).</li>
+</ul>
+<p><strong>Technologies</strong></p>
+<ul>
+<li>Windows, Apache, Mysql, PHP</li>
+<li>Active Directory</li>
+</ul>
+<p>I work as IT support of several small clients that I visit once a week. I also had to do some web forms form my employer.</p>
+<h3>Languages</h3>
+<ul>
+<li><strong>Spanish</strong>:  Native</li>
+<li><strong>English</strong>: High</li>
+</ul>
+<h3>Technical knowledge and skills</h3>
+<ul>
+<li>Java 21, Hibernate (JPA 2). </li>
+<li>Spring Boot, Spring MVC, Spring Security</li>
+<li>Micronaut</li>
+<li>Soap Web Services with Apache CXF and Metro.</li>
+<li>Rest Web Services with RestEasy, Jersey and Spring.</li>
+<li>Gradle, Sbt,  Ant/Ivy and Maven build tools.</li>
+<li>Application servers: Sun Applications Server (Glassfish), JBoss, WebSphere and Tomcat.</li>
+<li>Development Environments: IntelliJ, Eclipse, NetBeans.</li>
+<li>Web development (Bootstrap, AngularJS, NodeJS, Vue).</li>
+<li>Source code repositories: Git, Mercurial, CVS, Starteam, Subversion.</li>
+<li>Docker and Docker compose for building/development/testing environments.</li>
+<li>Amazon Lamdba, CloudFormation, SQS, ec2, Elasticsearch.</li>
+</ul>
+<h3>Methodologies</h3>
+<ul>
+<li>BDD (Behavior Driven Development with Cucumber and JBehave).</li>
+<li>TDD (Test Driven Development with JUnit and ScalaTest).</li>
+<li>Scrum</li>
+<li>Kanban</li>
+</ul>
+<h3>Databases</h3>
+<ul>
+<li>Oracle</li>
+<li>MySql</li>
+<li>PostgreSQL</li>
+<li>DynamoDB</li>
+</ul>
+<h3>Programming Languages</h3>
+<ul>
+<li>Java</li>
+<li>Scala</li>
+<li>Kotlin</li>
+<li>Javascript</li>
+</ul>
+<p>References available upon request.</p>
+  </div>
+</body>
+</html>
