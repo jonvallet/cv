@@ -8,7 +8,7 @@ Single `README.md` (markdown) is the source of truth for the CV content.
 
 | Output  | Command                                                      | Dependency                                  |
 |---------|--------------------------------------------------------------|---------------------------------------------|
-| PDF     | `convert-to-pdf.sh` or `md-to-pdf README.md --stylesheet cv-print.css -o Jon_Vallet_CV.pdf` | `npm install -g md-to-pdf`   |
+| PDF     | `convert-to-pdf.sh` or `md-to-pdf README.md --stylesheet cv-print.css && mv README.pdf Jon_Vallet_CV.pdf` | `npm install -g md-to-pdf`   |
 | DOCX    | `convert-to-doc.sh` or `pandoc -f markdown -t docx README.md -o Jon_Vallet.docx` | `pandoc`                        |
 | HTML    | `node build-html.js`                                        | `npm install -g marked`                        |
 
