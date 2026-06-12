@@ -2,4 +2,4 @@
 # Requires Node.js and md-to-pdf
 # npm install -g md-to-pdf
 
-md-to-pdf README.md --stylesheet cv-print.css -o Jon_Vallet_CV.pdf
+md-to-pdf README.md --stylesheet cv-print.css --output Jon_Vallet_CV.pdf
