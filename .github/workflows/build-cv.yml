@@ -22,7 +22,10 @@ jobs:
           npm install -g md-to-pdf marked
 
       - name: Generate PDF
-        run: md-to-pdf README.md --stylesheet cv-print.css --launch-options '{"args": ["--no-sandbox"]}' && mv README.pdf Jon_Vallet_CV.pdf
+        run: >
+          md-to-pdf README.md --stylesheet cv-print.css
+          --launch-options '{"args": ["--no-sandbox"]}'
+          && mv README.pdf Jon_Vallet_CV.pdf
 
       - name: Generate DOCX
         run: pandoc -f markdown -t docx README.md -o Jon_Vallet.docx
