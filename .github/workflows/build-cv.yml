@@ -27,9 +27,6 @@ jobs:
           --launch-options '{"args": ["--no-sandbox"]}'
           && mv README.pdf Jon_Vallet_CV.pdf
 
-      - name: Generate DOCX
-        run: pandoc -f markdown -t docx README.md -o Jon_Vallet.docx
-
       - name: Generate HTML
         run: node build-html.js
 
@@ -50,4 +47,4 @@ jobs:
             --notes "Auto-generated from README.md" \
             --target "${{ github.sha }}" \
             2>/dev/null || true
-          gh release upload cv-latest Jon_Vallet_CV.pdf Jon_Vallet.docx --clobber
+          gh release upload cv-latest Jon_Vallet_CV.pdf --clobber
