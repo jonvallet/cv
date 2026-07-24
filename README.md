@@ -68,7 +68,7 @@ Working as Technical Lead for the Ontology team. Manage 4 developers and I am re
 
 #### Click Travel Ltd
 - **Role**: Team Lead
-- **Period**: September 2017 – Current
+- **Period**: September 2017 – 2018
 - **Comments**: Responsible for all the services that manage the hotels systems and integration of Click Travel.
 
 **Tasks** 
