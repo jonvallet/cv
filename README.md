@@ -8,7 +8,7 @@ Wymondham, Norfolk · Hybrid — 2 days/week in London · +44 7759 160932 · j.v
 
 ### Profile
 
-Senior backend developer with 18+ years building high-throughput, low-latency platforms, the last [3]+ years in Fincrime at Mettle (NatWest Boxed). I build and scale real-time payment authorisation, event-monitoring and in-life screening systems serving [120k] customers on a strict 40ms SLA. Strong across Java 21 / Kotlin, Micronaut and Spring Boot, Kafka Streams, Kubernetes and PostgreSQL, with a technical-lead background running small teams and owning release cycles. Comfortable owning a service end-to-end inside a client's engineering organisation.
+Senior backend developer with 18+ years building high-throughput, low-latency platforms, the last [3]+ years in Fincrime at Mettle (NatWest Boxed). I build and scale real-time payment authorisation, event-monitoring and in-life screening systems serving [120k] customers on a strict 40ms SLA. Strong across Java 21 / Kotlin, Micronaut and Spring Boot, Kafka Streams, Kubernetes and PostgreSQL, with a technical-lead background running small teams and owning release cycles. Comfortable owning a service end-to-end inside a client's engineering organisation. AI-fluent: drives day-to-day delivery with AI coding assistants and MCP-based agent tooling to speed up development while maintaining quality.
 
 ### Core Skills
 
@@ -17,6 +17,7 @@ Senior backend developer with 18+ years building high-throughput, low-latency pl
 - **Streaming & Messaging:** Kafka, Kafka Streams, SQS
 - **Data:** PostgreSQL, MySQL, Oracle, DynamoDB, Elasticsearch
 - **Cloud & DevOps:** AWS (Lambda, EC2, SQS, CloudFormation), Kubernetes, Docker, GraalVM, Gradle, Maven, SBT
+- **AI & Automation:** AI coding assistants (opencode); agent tooling & orchestration (Model Context Protocol / MCP, tool-calling); prompt evaluation & guardrails
 - **Testing:** JUnit, Testcontainers, Cucumber, JBehave, ScalaTest, TDD/BDD
 - **Observability:** OpenTelemetry
 - **Front end (when required):** Angular, Vue, Node.js, Bootstrap
@@ -34,6 +35,7 @@ Fincrime platform: fraud prevention and customer/business activity monitoring fo
 - Designed streaming pipelines with Kafka Streams / Kafka, [brief detail].
 - [Reliability / migration win, e.g. reduced incidents by X% / cut p95 latency by Y%].
 - Work day-to-day in Java 21 + Micronaut microservices on Kubernetes, with OpenTelemetry tracing and Testcontainers-based test suites.
+- Apply AI-assisted development (opencode) and MCP-based agent tooling across day-to-day Fincrime delivery, with prompt evaluation and guardrails for safe, consistent output.
 
 **Tech:** Java 21, Micronaut, Spring Boot, Kubernetes, Kafka, Kafka Streams, OpenTelemetry, GraalVM, Testcontainers, PostgreSQL, MySQL
 
