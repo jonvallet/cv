@@ -1,14 +1,14 @@
 # Jon Vallet
 
-### Senior Backend Contractor — Java · Kotlin · Payments · Fincrime
+### Senior Backend Developer — Java · Kotlin · Payments · Fincrime
 
 Wymondham, Norfolk · Remote-first (UK) · +44 7759 160932 · j.vallet@gmail.com · [LinkedIn](https://uk.linkedin.com/in/jonvallet) · [GitHub](https://github.com/jonvallet)
 
-**UK right to work** (British/Spanish dual national) · **[Limited company / umbrella]** · **IR35:** [outside / inside] · **Clearance:** [none / SC] · **Availability:** [immediately]
+**UK right to work** (British/Spanish dual national) · **Availability:** 3 months
 
 ### Profile
 
-Senior backend contractor with 18+ years building high-throughput, low-latency platforms, the last [3]+ years in Fincrime at Mettle (NatWest Boxed). I build and scale real-time payment authorisation, event-monitoring and in-life screening systems serving [120k] customers on a strict 40ms SLA. Strong across Java 21 / Kotlin, Micronaut and Spring Boot, Kafka Streams, Kubernetes and PostgreSQL, with a technical-lead background running small teams and owning release cycles. Comfortable owning a service end-to-end inside a client's engineering organisation.
+Senior backend developer with 18+ years building high-throughput, low-latency platforms, the last [3]+ years in Fincrime at Mettle (NatWest Boxed). I build and scale real-time payment authorisation, event-monitoring and in-life screening systems serving [120k] customers on a strict 40ms SLA. Strong across Java 21 / Kotlin, Micronaut and Spring Boot, Kafka Streams, Kubernetes and PostgreSQL, with a technical-lead background running small teams and owning release cycles. Comfortable owning a service end-to-end inside a client's engineering organisation.
 
 ### Core Skills
 
