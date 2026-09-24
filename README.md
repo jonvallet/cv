@@ -2,7 +2,7 @@
 
 ### Senior Backend Developer — Java · Kotlin · Payments · Fincrime
 
-Wymondham, Norfolk · Remote-first (UK) · +44 7759 160932 · j.vallet@gmail.com · [LinkedIn](https://uk.linkedin.com/in/jonvallet) · [GitHub](https://github.com/jonvallet)
+Wymondham, Norfolk · Hybrid — 2 days/week in London · +44 7759 160932 · j.vallet@gmail.com · [LinkedIn](https://uk.linkedin.com/in/jonvallet) · [GitHub](https://github.com/jonvallet)
 
 **UK right to work** (British/Spanish dual national) · **Availability:** 3 months
 
