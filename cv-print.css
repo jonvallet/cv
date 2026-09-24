@@ -1,6 +1,6 @@
 @page {
   size: A4;
-  margin: 20mm 22mm;
+  margin: 16mm 20mm;
 }
 
 * {
@@ -11,18 +11,25 @@
 
 body {
   font-family: "Helvetica Neue", Arial, "Segoe UI", sans-serif;
-  font-size: 10pt;
-  line-height: 1.5;
+  font-size: 9.8pt;
+  line-height: 1.42;
   color: #333;
 }
 
+h1 {
+  font-size: 21pt;
+  color: #111;
+  line-height: 1.15;
+  margin-bottom: 1pt;
+}
+
 h3 {
-  font-size: 13pt;
+  font-size: 12.5pt;
   color: #1a1a1a;
   border-bottom: 1.5pt solid #333;
   padding-bottom: 3pt;
-  margin-top: 16pt;
-  margin-bottom: 8pt;
+  margin-top: 14pt;
+  margin-bottom: 7pt;
   page-break-after: avoid;
 }
 
@@ -31,11 +38,20 @@ h3:first-of-type {
 }
 
 h4 {
-  font-size: 11pt;
+  font-size: 10.8pt;
   color: #1a1a1a;
-  margin-top: 10pt;
-  margin-bottom: 3pt;
+  margin-top: 9pt;
+  margin-bottom: 2pt;
   page-break-after: avoid;
+  page-break-inside: avoid;
+}
+
+h4 + p {
+  page-break-before: avoid;
+}
+
+h4 + p + ul {
+  page-break-before: avoid;
 }
 
 strong {
@@ -48,21 +64,18 @@ p {
 }
 
 ul, ol {
-  margin: 3pt 0 3pt 18pt;
+  margin: 3pt 0 3pt 16pt;
+  page-break-inside: avoid;
 }
 
 li {
-  margin: 2pt 0;
+  margin: 1.5pt 0;
 }
 
 a {
   color: #2563eb;
   text-decoration: none;
-}
-
-h3 + p strong {
-  display: inline-block;
-  min-width: 70pt;
+  word-break: break-word;
 }
 
 .page-break {

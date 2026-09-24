@@ -1,316 +1,109 @@
-### Index
-- **[Personal Information](#personal-information)**
-- **[Academic Studies](#academic-studies)**
-- **[Experience](#experience)**
-- **[Languages](#languages)**
-- **[Technical knowledge and skills](#technical-knowoladge-and-skills)**
-- **[Methodologies](#methodologies)**
-- **[Databases](#databases)**
-- **[Programming Languages](#programming-languages)**
+# Jon Vallet
 
-### Personal Information
+### Senior Backend Contractor — Java · Kotlin · Payments · Fincrime
 
-- **Name**: Jon Vallet
-- **Nationality**: British, Spanish
-- **Birth date**: September 8, 1978 - Madrid
-- **Mail**:  j.vallet@gmail.com
-- **LinkedIn**: https://uk.linkedin.com/in/jonvallet
-- **GitHub**:  https://github.com/jonvallet
-- **Address**: 23 Bartram Close, Wymondham, NR18 0FU
-- **Phone**: +44 7759160932
+Wymondham, Norfolk · Remote-first (UK) · +44 7759 160932 · j.vallet@gmail.com · [LinkedIn](https://uk.linkedin.com/in/jonvallet) · [GitHub](https://github.com/jonvallet)
 
-### Academic Studies
+**UK right to work** (British/Spanish dual national) · **[Limited company / umbrella]** · **IR35:** [outside / inside] · **Clearance:** [none / SC] · **Availability:** [immediately]
 
-- BUP and COU Gustavo Adolfo Béquer institute.
-- Computer systems administration 2004-2006 (FP2) Virgen de la Paz Institute.
-- First and second year of Computer management engineer 2000-2004, UNED.
-- Sun Certified Java Programmer 5.
+### Profile
 
+Senior backend contractor with 18+ years building high-throughput, low-latency platforms, the last [3]+ years in Fincrime at Mettle (NatWest Boxed). I build and scale real-time payment authorisation, event-monitoring and in-life screening systems serving [120k] customers on a strict 40ms SLA. Strong across Java 21 / Kotlin, Micronaut and Spring Boot, Kafka Streams, Kubernetes and PostgreSQL, with a technical-lead background running small teams and owning release cycles. Comfortable owning a service end-to-end inside a client's engineering organisation.
+
+### Core Skills
+
+- **Languages:** Java (21, 17, 11, 8), Kotlin, Scala, JavaScript
+- **Backend:** Micronaut, Spring Boot, Spring MVC/Security, Hibernate/JPA, REST, SOAP
+- **Streaming & Messaging:** Kafka, Kafka Streams, SQS
+- **Data:** PostgreSQL, MySQL, Oracle, DynamoDB, Elasticsearch
+- **Cloud & DevOps:** AWS (Lambda, EC2, SQS, CloudFormation), Kubernetes, Docker, GraalVM, Gradle, Maven, SBT
+- **Testing:** JUnit, Testcontainers, Cucumber, JBehave, ScalaTest, TDD/BDD
+- **Observability:** OpenTelemetry
+- **Front end (when required):** Angular, Vue, Node.js, Bootstrap
+- **Methods:** Scrum, Kanban, technical leadership, mentoring, requirement gathering
 
 ### Experience
 
-#### Mettle (NatWest Boxed)
-- **Role**: Senior Software Developer
-- **Period**:  2021 – Current
-- **Comments**: Working on the Fincrime department to monitor customers activity and apply rules for fraud prevention. 
+#### Mettle (NatWest Boxed) — Senior Software Developer
+**Period:** 2021 – Present ([N] years)
+Fincrime platform: fraud prevention and customer/business activity monitoring for a UK business bank.
 
-**Tasks** 
-* Card and bank payments authorization in real time (SLA 40ms).
-* Event Monitoring of users/business activity (120k customers at the moment). 
-* Person/Business in life screening against multiple services.
+- Own real-time card and bank payment authorisation in the Fincrime pipeline, sustaining a [40]ms [p99] SLA across [N] transactions/day.
+- Built and scaled the Event Monitoring system feeding the Fincrime analytics team, now covering [120k] customers and [N] events/day.
+- Delivered in-life screening of people and businesses against [N] external providers, [reducing manual review / false positives by X%].
+- Designed streaming pipelines with Kafka Streams / Kafka, [brief detail].
+- [Reliability / migration win, e.g. reduced incidents by X% / cut p95 latency by Y%].
+- Work day-to-day in Java 21 + Micronaut microservices on Kubernetes, with OpenTelemetry tracing and Testcontainers-based test suites.
 
-**Technologies**
-* Java 21, Micronaut, Spring Boot, Kubernetes, Kafka Streams, OpenTelemetry, GraalVM, Testcontainers 
-* PostgresSQL, MySql, Kafka 
+**Tech:** Java 21, Micronaut, Spring Boot, Kubernetes, Kafka, Kafka Streams, OpenTelemetry, GraalVM, Testcontainers, PostgreSQL, MySQL
 
-In Mettle I am part of the Fincrime department as Backend Software Developer. 
-The key services I work on are Event Monitoring System,
-responsible for feeding with all the information the for fincrime analytics team.
-Real time payment authorizations, where we have to approve/decline payments in less than 40 ms for card payments.
-In life screening of business and customers against multiple external services.
+#### Scibite (an Elsevier Company) — Technical Lead
+**Period:** 2018 – 2021 ([N] years)
+Led the technical team behind CENtree, an ontology-management platform.
 
-#### Scibite (an Elsevier Company)
-- **Role**: Technical Lead
-- **Period**:  2018 – 2021
-- **Comments**: Responsiable for Leading the technical team for CENtree (Ontology Management Platform)
+- Led a team of [4] developers, owning the product release cycle, shared libraries and frameworks.
+- Designed and developed the core CENtree ontology-management product [used by N teams / clients].
+- Ran technical requirement gathering and specification with stakeholders.
+- Coordinated with other technical leads across the organisation.
 
-**Tasks** 
-* Develop our core product CENtree (ONtology Management Platform).
-* Manage a group of four developers.
-* Technical requirement gathering and specification.
+**Tech:** Java 11, Kotlin, Spring Boot, AWS, Docker, Angular, PostgreSQL, Elasticsearch
 
-**Technologies**
-* Java 11, Kotlin, Spring Boot, AWS, Docker, Angular 2
-* PostgresSQL, ElasticSearch
+#### Click Travel — Team Lead / Senior Software Developer
+**Period:** 2016 – 2018
+Two stints across the hotels and financial platforms.
 
+- **Team Lead, Hotels (2017–2018):** Owned all hotel services (client, search, third-party integration) and delivered a new Hotels API for external partners.
+- **Senior Developer, Financial services (2016–2017):** Designed and built new financial services and extended existing ones, mentoring junior developers.
 
-Working as Technical Lead for the Ontology team. Manage 4 developers and I am responsible of product release cycle, general libraries and frameworks that are used for the product. I also cordinate and collaborate with other technical leads.
+**Tech:** Node.js, Java 8, Scala, AWS Lambda, DynamoDB, microservices, REST/JSON
 
-#### Click Travel Ltd
-- **Role**: Team Lead
-- **Period**: September 2017 – 2018
-- **Comments**: Responsible for all the services that manage the hotels systems and integration of Click Travel.
+#### Validus IVC — Senior Software Developer
+**Period:** Aug 2015 – Jun 2016
 
-**Tasks** 
-* Maintain and add new functionalities to all Hotels releated services. Also responsible of developing new Hotels API for third parties.
+- Designed a REST/JSON API to unify [N] modules that previously accessed the database directly.
+- Migrated the front-end applications to AngularJS and Bootstrap.
 
-**Technologies**
-* REST/JSON, Node.js, Java8, Amazon Lambda, Amazon AWS, Micro services.
-* DynamoDB
+**Tech:** Spring Boot, REST/JSON, AngularJS, AWS, Elasticsearch, SQL Server 2014
 
-As team lead of the Hotels team, we are responsaible of all the current services and adding new features with anything hotel releated (client, search, 3rd party integration, REST API).
+#### Proxama — Senior Software Developer
+**Period:** Nov 2014 – Jun 2015
 
-#### Click Travel Ltd
-- **Role**: Senior Software Developer
-- **Period**: July 2016 – August 2017
-- **Comments**: Responsible for all the services that manage the financial system of Click Travel.
+- Built the tokenisation service mapping PANs to virtual PANs so real card numbers are never stored or used by vendors for digital payments.
+- Delivered the AngularJS token-manager web app for configuring token generation.
 
-**Tasks**
-* Design, development and implementation of new financial services or adding new functionality to the existing ones. 
+**Tech:** Spring Boot, JDK 8, microservices, REST/JSON, Docker, AngularJS, AWS, MySQL 5.5
 
-**Technologies**
-* REST/JSON, Scala, Java8, Amazon Lambda, Amazon AWS, Micro services, NodeJs.
-* DynamoDB
+#### Avalon Biometrics (a Gemalto Company) — Technical Lead / Software Developer
+**Period:** 2007 – 2014
+Delivered biometric visa, border-control and ID systems for governments and commercial clients, leading backend design and on-site delivery.
 
-As part of the financial team, I am responsible of adding new features and creating new services for all the financial products of Click Travel. Also as part of my responsibilities I give 
-support to the more junior developers of the team.
+- **Ghana Government — Visa & Border Control (2013–2014):** Backend services for applicant capture (.NET client) and a RESTful visa portal; JBoss configuration for mutual authentication, data sources and security. *(JEE6, JBoss EAP 6.1, Hibernate, SOAP/XML, REST/JSON, Oracle 11g)*
+- **VFS Global — Multi-country visa capture (2012–2013):** Security layer (certificate management, WS-Security policies, dongle integration), data purge policies and integration with [N] government interfaces. *(JEE6, Hibernate, Web Services, GWT, Oracle 11g)*
+- **DGSN, Moroccan Police — Border control (2009–2012):** Designed migration/synchronisation tools for parallel running with the legacy system; ~6 months on-site in Rabat as client liaison. *(JEE5, Hibernate, Web Services, ESB, GWT, Oracle 11g)*
+- **UNIFIL (Indonesian Army, Lebanon) — Military police (2008–2009):** Owned server-side design and implementation; on-site installation and training. *(JEE5, Hibernate, Web Services, GWT, Oracle 10g)*
+- **Intelligentsia, Yaoundé University, Cameroon — Student ID & biometrics (2007–2008):** Server-side biometric capture, web-service interface for third parties and a report generator; on-site installation and training. *(JEE5, Hibernate, Web Services, Oracle 10g)*
 
-#### Validus IVC  
-- **Role**: Senior Software Developer
-- **Period**: August 2015 – June 2016 
-- **Comments**: Exposing a Rest/Json API to all the services that the company has.
+#### IT Deusto — Software Developer
+**Period:** 2006 – 2007
 
-**Tasks**
-* Development and implementation.
+- **Telefónica Móviles (Movistar):** Main developer on a desktop analytics tool correlating traffic, user and page-load events. *(Java 5, Swing, Servlets, Oracle 9g)*
+- **ISBAN / Grupo Santander:** Contractor on BankSphere/Mira/Vega; Cobol→J2EE view-layer migration and Spanish→English localisation. *(WebSphere/BankSphere 3.2, UML/Rational Rose, Cobol, DB2, J2EE, JavaScript)*
 
-**Technologies**
-* Spring Boot, REST/JSON, AngularJS, Amazon AWS, Micro services, ElasticSearch.
-* SQL Server 2014
+#### Acciona2 — Developer / IT Administrator
+**Period:** Nov 2005 – May 2006
 
-Design and implementation of a Rest API to unify all the modules that are actually accessing the database directly. Also migrating all the front end applications to AngularJS and Bootstrap.
+- Contractor IT support for several small companies: WAMP web applications and Windows/Active Directory administration.
 
+### Education & Certifications
 
-#### Proxama  
-- **Role**: Senior Software Developer
-- **Period**: November 2014 – June 2015
-- **Comments**: Token Manager System for transforming Primary Account Numbers to Virtual Primary Account Numbers so the real one is never stored or used by the vendor.  
-
-**Tasks**
-* Development and implementation.
-
-**Technologies**
-* Spring Boot, JDK8, Micro services architecture, REST/JSON,  Docker, Angular/JS, Amazon AWS
-* MySql 5.5.
-
-My main task were design and implement a back end service that translates PAN numbers in tokens so they can be use for digital payments. Also had to implement a token manager web application to manage all the setting of the token generation using AngularJS as a front end.
-
-
-#### Avalon Biometrics (A Gemalto Company)  
-**Client**: Ghana Government
-**Role**: Technical Lead
-**Period**: May 2013 – September 2014
-**Comments**: Visa and Border Control System for the Ghana Government
-
-**Tasks**
-* Functional Analysis.
-* Development and implementation.
-* Documentation.
-* Quality Assurance.
-
-**Technologies**
-* JEE6, JBoss EAP 6.1, Hibernate, Web Services(SOAP/XML and REST/JSON), jQuery/Bootstrap.
-* Oracle 11g database.
-
-My tasks were mostly designing and implementing back end services for the .net client use for capturing the applicant’s data. Also a restful api to give service for a Visa web portal. JBoss configuration scripting for things like mutual authentication, data sources, authentication options, etc. 
-
-
-#### Avalon Biometrics S.L.  
-- **Client**: VFS Global
-- **Role**: Technical Lead
-- **Period**: June 2012 – May 2013
-- **Comments**: Visa capture system, with biometric data capture for requesting visas of several countries (Spain, Sweden, Denmark, Australia, Belgium).
-
-**Tasks**
-* Functional Analysis.
-* Development and implementation.
-* Documentation.
-* Quality Assurance.
-
-**Technologies**
-* JEE6, Hibernate, Web Services, GWT
-* Oracle 11g database
-
-My most important tasks have been implementing the security layer (Certificate management tool for encrypting the data captured, Web Service Security Policies, dongle certificate integration), purge policies of all the personal information and integration with several of the countries interfaces to automate the visa generation and giving assistance to our contractor for installation.
-
-
-#### Avalon Biometrics S.L.  
-- **Client**: DGSN (Moroccan Police Department)
-- **Role**: Technical Lead
-- **Period**: October 2009 – May 2012
-- **Comments**: Border control system, with biometric data capture, passport and fingerprint verification. System integration with the still in use system.  
-
-**Tasks**
-* Functional Analysis.
-* Development and implementation.
-* Documentation
-* Quality Assurance
-* Site installation support
-
-**Technologies**
-* JEE5, Hibernate, Web Services, ESB, GWT
-* Oracle 11g database.
-
-Along almost the three years I have worked on this project the most important task I had were the designing of the migration tools, the interfaces for synchronizing the old border control system with our solution, so they could work in parallel with the customer development team. After this, I worked on site (Morocco/Rabat) with the client team for implementation as responsible of the synchronization/migration tools for almost 6 months. For this I had to travel frequently and had to stay at least for two weeks every month on Rabat. 
-
-After the designing/implementation phase, I travel frequently (at least two weeks a month), for installation support, discussing change requests, issue tracking on site and bridge between the client and development team for any issue, meeting or requirement that needed the Avalon Biometrics assistance.
-
-
-#### Avalon Biometrics S.L.  
-- **Client**: UNIFIL (Indonesian army on Lebanon)
-- **Role**: Technical Lead
-- **Period**: December 2008 – June March 2009
-- **Comments**: Client-Server application with biometrics data capture and fingerprint verification utilities for the military police.  
-
-**Tasks**
-* Functional Analysis.
-* Development and implementation.
-* Documentation.
-* Quality Assurance.
-* Site installation support.
-* Demonstration and formation of the utilities.
-
-**Technologies**
-* JEE5, Hibernate, Web Services, GWT
-* Oracle 10g database.
-
-In this project I was responsible of the entire server designing/implementation infrastructure for saving/retrieving the client data. I also had to travel to Lebanon for a week for on site installation support and training on the UNIFIL Indonesian Military Police quarters.
-
-
-#### Avalon Biometrics S.L.  
-- **Client**: Intelligentsia (Yaoundé University, Cameroon)
-- **Role**: Software Developer
-- **Period**:  February 2007 – November 2008
-- **Comments**: Client-Server application with biometrics data capture. Student ID cards impression with the captured biometric data. Utilities for biometrics verification.
-
-**Tasks**
-* Development and implementation.
-* Documentation.
-* Site installation support.
-
-**Technologies**
-* JEE5, Hibernate, Web Services
-* Oracle 10g database
-
-My main role in this project was server side designing and implementation for saving the biometric data capture by the client. Publishing a web service interface so third party applications integration. A report tool generator.
-
-I also had to travel to Yaoundé, Cameroon, for installation, support and training.
-
-
-#### IT Deusto  
-- **Client**: Telefónica Móviles (Movistar) Spain
-- **Role**: Software Developer
-- **Period**: September 2006 – March 2007
-- **Comments**: Client application to analyze audited events (number of unique visitors, page load time, etc...) and finding correlations between two or more variables.
-
-**Tasks**
-* Development and implementation
-* Documentation
-
-**Technologies**
-* Java 5, Swing, Servlets 
-* Oracle 9g
-
-For six months, I work as the main developer on a desktop application for analyzing data from Télefonica servers and finding correlations between different events, like number of request against time, traffic and number of users, etc…
-
-
-#### IT Deusto  
-- **Client**: ISBAN/Grupo Santander
-- **Role**: Software Developer
-- **Period**: May 2006 – September 2006
-- **Comments**: Work as contractor using the internal tools for development (BankSphere, Mira, Vega)
-
-**Tasks**
-* Cobol to J2EE migration of the view layer.
-* Localize the programs from Spanish to English.
-* Layout.
-
-**Technologies**
-* Websphere/BankSphere 3.2, UML (Rational Rose), Cobol, DB2, J2EE, JavaScript
-
-This was my first job as a software developer. My main functions were learning to use the internal development tools (Mira and Vega eclipse plug-ins) and language location for English web applications.
-
-
-#### Acciona2  
-- **Client**: Several
-- **Role**: Developer/IT administrator
-- **Period**: November 2005 – May 2006
-- **Comments**: It administrator for several small companies, as a contractor
-
-**Tasks**
-* WAMP application development (Windows over Apache, MySql, Perl and PHP).
-* Windows domain administrator (Active Directory).
-
-**Technologies**
-* Windows, Apache, Mysql, PHP
-* Active Directory
-
-I work as IT support of several small clients that I visit once a week. I also had to do some web forms form my employer.
-
+- **Sun Certified Java Programmer 5**
+- **FP2, Computer Systems Administration** — Virgen de la Paz Institute (2004–2006)
+- **Computer Management Engineering** — UNED (2000–2004, first and second year)
+- **BUP & COU** — Gustavo Adolfo Béquer Institute
 
 ### Languages
-* **Spanish**:  Native
-* **English**: High
 
-### Technical knowledge and skills
-* Java 21, Hibernate (JPA 2). 
-* Spring Boot, Spring MVC, Spring Security
-* Micronaut
-* Soap Web Services with Apache CXF and Metro.
-* Rest Web Services with RestEasy, Jersey and Spring.
-* Gradle, Sbt,  Ant/Ivy and Maven build tools.
-* Application servers: Sun Applications Server (Glassfish), JBoss, WebSphere and Tomcat.
-* Development Environments: IntelliJ, Eclipse, NetBeans.
-* Web development (Bootstrap, AngularJS, NodeJS, Vue).
-* Source code repositories: Git, Mercurial, CVS, Starteam, Subversion.
-* Docker and Docker compose for building/development/testing environments.
-* Amazon Lamdba, CloudFormation, SQS, ec2, Elasticsearch.
+- **Spanish** — Native
+- **English** — Fluent
 
-### Methodologies
-* BDD (Behavior Driven Development with Cucumber and JBehave).
-* TDD (Test Driven Development with JUnit and ScalaTest).
-* Scrum
-* Kanban
-
-### Databases
-* Oracle
-* MySql
-* PostgreSQL
-* DynamoDB
-
-### Programming Languages
-* Java
-* Scala
-* Kotlin
-* Javascript
-
-References available upon request.
+References available on request.

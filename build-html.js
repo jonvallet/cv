@@ -46,6 +46,12 @@ const html = `<!DOCTYPE html>
       background: #fff;
       min-height: 100vh;
     }
+    h1 { font-size: 32px; color: #0f172a; line-height: 1.15; margin-bottom: 4px; }
+    h1 + h3 {
+      font-size: 18px; color: #475569;
+      border-bottom: none; padding-bottom: 0;
+      margin: 0 0 12px;
+    }
     h3 {
       font-size: 20px; color: #1e293b;
       border-bottom: 2px solid #1e293b;
