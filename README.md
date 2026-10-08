@@ -8,7 +8,7 @@ Wymondham, Norfolk · Hybrid — 2 days/week in London · +44 7759 160932 · j.v
 
 ### Profile
 
-Senior backend developer with 18+ years building high-throughput, low-latency platforms, the last [3]+ years in Fincrime at Mettle (NatWest Boxed). I build and scale real-time payment authorisation, event-monitoring and in-life screening systems serving [120k] customers on a strict 40ms SLA. Strong across Java 21 / Kotlin, Micronaut and Spring Boot, Kafka Streams, Kubernetes and PostgreSQL, with a technical-lead background running small teams and owning release cycles. Comfortable owning a service end-to-end inside a client's engineering organisation. AI-fluent: drives day-to-day delivery with AI coding assistants and MCP-based agent tooling to speed up development while maintaining quality.
+Senior backend developer with 18+ years building high-throughput, low-latency platforms, the last 5+ years in Fincrime at Mettle (NatWest Boxed). I build and scale real-time payment authorisation, event-monitoring and in-life screening systems serving [120k] customers on a strict 40ms SLA. Strong across Java 21 / Kotlin, Micronaut and Spring Boot, Kafka Streams, Kubernetes and PostgreSQL, with a technical-lead background running small teams and owning release cycles. Comfortable owning a service end-to-end inside a client's engineering organisation. AI-fluent: drives day-to-day delivery with AI coding assistants and MCP-based agent tooling to speed up development while maintaining quality.
 
 ### Core Skills
 
@@ -26,25 +26,24 @@ Senior backend developer with 18+ years building high-throughput, low-latency pl
 ### Experience
 
 #### Mettle (NatWest Boxed) — Senior Software Developer
-**Period:** 2021 – Present ([N] years)
+**Period:** 2021 – Present
 Fincrime platform: fraud prevention and customer/business activity monitoring for a UK business bank.
 
-- Own real-time card and bank payment authorisation in the Fincrime pipeline, sustaining a [40]ms [p99] SLA across [N] transactions/day.
-- Built and scaled the Event Monitoring system feeding the Fincrime analytics team, now covering [120k] customers and [N] events/day.
-- Delivered in-life screening of people and businesses against [N] external providers, [reducing manual review / false positives by X%].
-- Designed streaming pipelines with Kafka Streams / Kafka, [brief detail].
-- [Reliability / migration win, e.g. reduced incidents by X% / cut p95 latency by Y%].
+- Own real-time card and bank payment authorisation in the Fincrime pipeline, sustaining a 40ms p99 SLA across thousands transactions/day.
+- Built and scaled the Event Monitoring system feeding the Fincrime analytics team, now covering 120k customers and hundreds of thousands events/day.
+- Delivered in-life screening of people and businesses against external providers, reducing manual review / false positives.
+- Designed streaming pipelines with Kafka Streams / Kafka.
 - Work day-to-day in Java 21 + Micronaut microservices on Kubernetes, with OpenTelemetry tracing and Testcontainers-based test suites.
 - Apply AI-assisted development (opencode) and MCP-based agent tooling across day-to-day Fincrime delivery, with prompt evaluation and guardrails for safe, consistent output.
 
 **Tech:** Java 21, Micronaut, Spring Boot, Kubernetes, Kafka, Kafka Streams, OpenTelemetry, GraalVM, Testcontainers, PostgreSQL, MySQL
 
 #### Scibite (an Elsevier Company) — Technical Lead
-**Period:** 2018 – 2021 ([N] years)
+**Period:** 2018 – 2021
 Led the technical team behind CENtree, an ontology-management platform.
 
 - Led a team of [4] developers, owning the product release cycle, shared libraries and frameworks.
-- Designed and developed the core CENtree ontology-management product [used by N teams / clients].
+- Designed and developed the core CENtree ontology-management product used by dozens of clients.
 - Ran technical requirement gathering and specification with stakeholders.
 - Coordinated with other technical leads across the organisation.
 
